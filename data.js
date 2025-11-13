@@ -5,8 +5,7 @@ window.SSData = [
   "desc": "Cr-Ni-Mn ornamental & structural tube, 9.5–219 mm OD × 0.5–3.0 mm WT; higher Mn than 201, strength ↑, corrosion ≈ 304; for handrails, furniture, light-duty frames.",
   "tables": [
     {
-      "name": "Chemical Composition (wt %, max unless range given)",
-      "data": {
+      "Chemical Composition (wt %, max unless range given)": {
         "C": "≤0.15",
         "Mn": "7.5-10.0",
         "P": "≤0.060",
@@ -18,8 +17,7 @@ window.SSData = [
       }
     },
     {
-      "name": "Mechanical Properties (annealed tube)",
-      "data": {
+      "Mechanical Properties (annealed tube)": {
         "Tensile Strength": "≥515 MPa",
         "Yield Strength": "≥275 MPa",
         "Elongation": "≥40 %",
@@ -28,8 +26,7 @@ window.SSData = [
       }
     },
     {
-      "name": "Physical Properties (typical)",
-      "data": {
+      "Physical Properties (typical)": {
         "Density": "7.93 g/cm³",
         "Melting Point": "1400-1450 °C",
         "Thermal Expansion": "16.0 μm/m·°C",
@@ -39,4 +36,3 @@ window.SSData = [
     }
   ]
 }
-];
